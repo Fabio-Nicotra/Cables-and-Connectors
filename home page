@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cables & Connectors</title>
+		<link rel="stylesheet" href="css c&c.css">
+	</head>
+	<body>
+		<div>
+			<title>
+				Cables & Connectors
+			</title>
+		</div>
+		<div>
+			<p> Membri: Nicotra Fabio, Orsini Andrea, Galeone Davide. </p>
+		</div>
+		<div>
+			<div><img src="immagini/lightning.jpg" width="200">
+			<div><a href="fortnite.html">connettore lightning</a></div>
+		</div>
+		<div>
+>			<div><a href="GTA5.html">Cavo2</a></div>
+		</div>
+		<div>
+>			<div><a href="pubg.html">Cavo3</a></div>
+		</div>
+		<div>
+>			<div><a href="Batt.html">Cavo4</a></div>
+		</div>		
+		<div>
+>			<div><a href="pex de merd.html">Cavo5</a></div>
+		</div>
+	</body>
+</html>
