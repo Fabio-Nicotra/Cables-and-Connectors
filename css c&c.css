@@ -3,44 +3,9 @@ a{
   text-decoration:underline;
 }
 
-td{
-  background:black;
-  text-align:center;
-  border-style:solid;
-  border-color:green;
-  border-width:2px;
-  color:green;
-}
-
- table{
-	  background:black;
-	  border-style:solid;
-	  border-color:green;
-	  border-width:2px;
-	  text-align:center;
-	  margin: 0 auto;
-	  width: 50%;
-}
-
-#logo{
-	float: center;
-	margin: 0 auto;
-	width: 40%;
-}
-#ligma{
-	float: center;
-	margin: 0 auto;
-	width: 40%;
-}
 p{
 	text-align: center;
-	color: red;
-}
-
-p{
-	text-align: center;
-	color: red;
-	font-size: 15px;
+	color: black;
 }
 
 div{
@@ -51,14 +16,4 @@ div{
 
 body{
      background-image: url("immagini/sis.jpg");
-}
-
-#potas{
-	margin: 0 auto;
-	width: 10%;
-	float:left;
-}
-
-th{
-	color: green;
 }
