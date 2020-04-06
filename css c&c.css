@@ -37,16 +37,10 @@ p{
 	color: red;
 }
 
-cic{
+p{
 	text-align: center;
 	color: red;
 	font-size: 15px;
-}
-
-sis{
-	text-align: center;
-	color: red;
-	font-size: 10px;
 }
 
 div{
@@ -67,8 +61,4 @@ body{
 
 th{
 	color: green;
-}
-
-#las{
-	width:40%
 }
