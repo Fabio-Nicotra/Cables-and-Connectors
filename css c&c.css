@@ -38,17 +38,27 @@ p{
 	color: red;
 }
 
+cic{
+	text-align: center;
+	color: red;
+	font-size: 15px;
+}
+
+sis{
+	text-align: center;
+	color: red;
+	font-size: 10px;
+}
+
 div{
 	text-align:center;
 	
 }
 
-a{
-	
-}
 
 body{
      background-image:url("immagini/a.jpg");
+     background-size: 300px 100px;
 }
 
 #potas{
